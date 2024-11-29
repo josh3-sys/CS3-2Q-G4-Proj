@@ -132,14 +132,17 @@ section.logo_name {
 	font-size: 25px;	
 }
 
+.sources{
+	max-width: 500px;
+	margin-left: 75px;
+}
+
 .sources p{
 	font-size: 23px;	
-	margin-left: 75px;
 	font-weight: 200px;
 }
 
-.sources div{
-	margin-left: 75px;
+.sources a{
 	margin-bottom: 5px;
 }
 
