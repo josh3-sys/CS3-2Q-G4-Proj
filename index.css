@@ -120,16 +120,16 @@ section.home-content article {
     	}
 
     	section.home-content {
-    	    padding: 10px;
-    	    width: 90%;
+    	   	padding: 10px;
+    	    	width: 90%;
     	}
 
     	section.home-content header {
-    	    font-size: 36px; 
+    	    	font-size: 36px; 
     	}
 
     	.navbar a {
-    	    font-size: 12px;
+    	    	font-size: 12px;
     	}
 }
 
